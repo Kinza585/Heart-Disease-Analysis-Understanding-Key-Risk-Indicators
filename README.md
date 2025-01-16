@@ -36,7 +36,7 @@ Key questions explored in this project:
    - Average and median values for:
      - Resting blood pressure (`trestbps`).
      - Serum cholesterol (`chol`).
-     - Maximum heart rate (`thalach`).
+     - Maximum heart rate (`thalch`).
 
 5. **Categorical Features**
    - Counts of patients with exercise-induced angina (`exang`).
